@@ -2,6 +2,7 @@ foo
 bar
 
 awesome function() {
+  hello
 }
 
 1234
