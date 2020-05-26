@@ -2,7 +2,10 @@ foo
 bar
 
 awesome function() {
+<<<<<<< HEAD
   hello
+=======
+>>>>>>> foo
 }
 
 1234
